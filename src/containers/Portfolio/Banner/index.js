@@ -46,7 +46,7 @@ const BannerSection = ({
             />
           </Box>
           <Box {...imageArea} className="image_area">
-            <NextImage src={PersonImage} alt="Mat Helme" />
+            <NextImage src={PersonImage} alt="Ankara Batıkent Fotoğrafçı" />
           </Box>
         </Box>
       </Container>
