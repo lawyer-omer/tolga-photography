@@ -34,7 +34,6 @@ const Portfolio = () => {
             rel="stylesheet"
           />
           <link href="https://res.cloudinary.com/avomeraydin/image/upload/v1642696465/favicon_o2es01.svg" rel="icon" type="image/x-icon" />
-
         </Head>
 
         <ResetCSS />

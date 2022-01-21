@@ -15,7 +15,7 @@ import AwardImage4 from '../../assets/image/portfolio/award-4.png';
 
 import PortfolioImage1 from '../../assets/image/portfolio/dugun-fotografcisi.jpeg';
 import PortfolioImage2 from '../../assets/image/portfolio/klip-montaj-kamera.jpeg';
-import PortfolioImage3 from '../../assets/image/portfolio/urun-fotografciligi.jpeg';
+import PortfolioImage3 from '../../assets/image/portfolio/ltb_urun.jpeg';
 import PortfolioImage4 from '../../assets/image/portfolio/sosyal-medya.jpeg';
 import PortfolioImage5 from '../../assets/image/portfolio/bebek-cocuk-fotografciligi.jpeg';
 
